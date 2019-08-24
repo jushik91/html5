@@ -1,0 +1,31 @@
+﻿.parent{position: relative; background: #ffff00; overflow: hidden;}
+.child{width: 200px; height: 100px; background: #ff00ff;}
+.first{background: #ff0000;}
+.last{background: #0000ff; height: 150px;}
+
+.fl{float: left;}
+
+
+
+.clearfix:after{content: '어쩌구 저쩌구'; display: block; clear: both; visibility: hidden; height: 0;}
+
+
+.blank{clear: both; visibility: hidden; height: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

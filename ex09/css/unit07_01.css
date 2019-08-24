@@ -1,0 +1,39 @@
+﻿body{background: url(../images/pattern.png); }
+h1 span{display: none;}
+.btn{background: #000000; color: #ffffff; border: none;}
+div{text-align: right;}
+
+/* Media Query */
+@media screen and (min-width:320px) and (max-width:799px) {
+    h1{background: url(../images/mediaQuery1.png) no-repeat center top; height: 295px;}
+	.btn{border-radius: 5px; padding: 5px 10px; font-size: 1.1em;}
+
+}/* (min-width:320px) */
+
+
+
+@media screen and (min-width:800px) and (max-width:1024px) {
+    
+}/* (min-width:800px) */
+
+
+
+
+@media screen and (min-width:1025px) {
+	h1{background:ur;(../images}
+    
+}/* (min-width:800px) */
+
+
+
+
+
+
+
+
+
+
+
+
+
+

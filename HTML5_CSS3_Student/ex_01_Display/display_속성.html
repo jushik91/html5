@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<html lang="ko-KR">
+<head>
+	<meta charset="UTF-8" />
+	<title>display 속성</title>
+<style type="text/css">
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body {
+	margin: 0;
+	color: #404040;
+	font: 20px/normal "Malgun Gothic", "맑은 고딕", Dotum, "돋움", Gulim, "굴림", Verdana, Arial, "Trebuchet MS";    margin: 0px; 
+	font-size-adjust: none; 
+	font-stretch: normal; 
+}
+a:link {
+	color: rgb(0,125,255);
+	text-decoration: none;
+	font-weight: bold;
+}
+a:hover {
+	color: rgb(255,0,0);
+	text-decoration: none;
+	font-weight: bold;
+}
+a:visited {
+	color: rgb(0,255,255);
+	text-decoration: none;
+	font-weight: bold;
+}
+a:active {
+	color: rgb(255,125,0);
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#wrap {
+	width: 800px;
+	margin: auto;
+}
+.box {
+	margin: 10px 0px; 
+	padding: 10px; 
+	border: 1px solid rgb(200, 202, 206); 
+	background-color: rgb(247, 247, 247);
+}
+.red {
+	color: #990000;
+	font-weight: bold;
+}
+.blue {
+	color: #009;
+	font-weight: bold;
+}
+</style>
+</head>
+
+<body>
+
+<div id="wrap">
+	<div class="box">
+		<h2>1. display 속성</h2>
+		<table width="780" border="1" cellpadding="4">
+		  <tr>
+		    <td bgcolor="#6699FF">none</td>
+		    <td>보이지않게</td>
+		    <td>줄바꿈</td>
+		  </tr>
+		  <tr>
+		    <td bgcolor="#6699FF">block</td>
+		    <td>줄바꿈</td>
+		    <td>&nbsp;</td>
+		  </tr>
+		  <tr>
+		    <td bgcolor="#6699FF">inline</td>
+		    <td>한줄</td>
+		    <td>margin(left, right), padding(right, bottom, left)</td>
+		  </tr>
+		  <tr>
+		    <td bgcolor="#6699FF">inline-block</td>
+		    <td>한줄(안에는 여러줄)</td>
+		    <td>width, height, margin(top, right, bottom, left)</td>
+		  </tr>
+		</table>
+		<p>&nbsp;</p>
+		<h2>2. 태그로 나눈 display 속성</h2>
+		<table width="780" border="1" cellpadding="4">
+		  <tr>
+		    <td bgcolor="#6699FF">block 형식</td>
+		    <td>div, h1~h6, p, 목록, 테이블, 폼</td>
+		  </tr>
+		  <tr>
+		    <td bgcolor="#6699FF">inline 형식</td>
+		    <td>span, a, input, 글자형식</td>
+		  </tr>
+		  <tr>
+		    <td bgcolor="#6699FF">inline-block형식</td>
+		    <td>이미지태그, 멀티미디어태그</td>
+		  </tr>
+		</table>
+		<p>&nbsp;</p>
+		<h2>3. margin 통합현상이란?</h2>
+	</div>
+</div>
+</body>
+</html>

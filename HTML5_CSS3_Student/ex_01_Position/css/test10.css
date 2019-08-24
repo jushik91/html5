@@ -1,0 +1,17 @@
+﻿/* .box{width: 100px; height: 100px; } */
+.box{padding: 10px 30px;}
+.box:nth-child(1){background: red; }
+.box:nth-child(2){background: darkgreen; }
+.box:nth-child(3){background: blue; }
+
+body>div{border: 3px solid black; position: relative; width: 1200px; height: 500px; background: yellow; margin: 0 auto;}
+
+.fl{float: left;}
+.fr{float: right;}
+.cl{clear: left;}
+.cr{clear: right;}
+
+.box2{background: #ff00ff; display: none;}
+.box:nth-child(1):hover .box2{display: block;}
+
+
