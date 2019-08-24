@@ -1,0 +1,24 @@
+﻿ul{list-style:none; width:600px; height:150px; background-color:
+#bed8cd; border-radius:30px; padding:20px; margin:0 auto;
+	display:-moz-box;
+	-moz-box-direction: reverse; /* 텍스트의 순서 바뀌기 float:right*/
+	-moz-box-orient: horizontal;  /*일렬로 정렬 display:inline */
+	-moz-box-pack:center ; /*리스트 가로 정렬 가운데 text-align:center;*/
+	-moz-box-align:center;  /*세로 정렬 vertical-align:center*/
+	display : -webkit-box;
+	
+	-webkit-box-direction: reverse; /* 텍스트의 순서 바뀌기 float:right*/
+	-webkit-box-orient: horizontal;  /*일렬로 정렬 display:inline */
+	-webkit-box-pack:center ; /*리스트 가로 정렬 가운데 text-align:center;*/
+	-webkit-box-align:center;  /*세로 정렬 vertical-align:center*/
+	
+	display : box;
+	
+	box-direction: reverse; /* 텍스트의 순서 바뀌기 float:right*/
+	box-orient: horizontal;  /*일렬로 정렬 display:inline */
+	box-pack:center ; /*리스트 가로 정렬 가운데 text-align:center;*/
+	box-align:center;  /*세로 정렬 vertical-align:center*/
+}
+
+li{font:0.85em Arial, sans-seif;padding:10px 25px;
+ background:url(../images/leaf_g.png) no-repeat left center;}

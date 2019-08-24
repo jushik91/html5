@@ -1,0 +1,10 @@
+﻿#header{width: 900px; height: 500px; background: #ffff00; margin: 0 auto;}
+#box1{background: #ff0000; padding: 5px 30px;}
+#box2{background: #00ff00; padding: 5px 30px;}
+#box3{background: #0000ff; padding: 5px 30px;}
+
+
+.fl{float: left;}
+.fr{float: right;}
+.cl{clear: left;}
+.cr{clear: right;}

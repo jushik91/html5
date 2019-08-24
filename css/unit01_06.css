@@ -1,0 +1,10 @@
+﻿body{backgroud:red;}
+
+dl{
+	 -o-box-shadow:10px 5px 20px 15px #666666;
+	 -ms-box-shadow:10px 5px 20px 15px #666666;
+	 -moz-box-shadow:10px 5px 20px 15px #666666;
+	 -webkit-box-shadow:10px 5px 20px 15px #666666; 
+	 
+}
+}

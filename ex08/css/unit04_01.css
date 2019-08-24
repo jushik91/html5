@@ -1,0 +1,7 @@
+﻿
+#bookPart{width: 850px; margin:0 auto; text-align:justify;
+margin-bottom:50px;
+    column-count:3;
+	column-rule:1px dashed #666666;
+	column-gap:40px;
+}

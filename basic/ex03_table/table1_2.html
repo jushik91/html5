@@ -1,0 +1,47 @@
+﻿<!doctype html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+    <link rel="stylesheet" href="css/table2.css"/>
+    
+</head>
+<body>
+	<table>
+		<colgroup>
+			<col style="background:skyblue"/>
+            <col span="1" style="background:pink"/>
+        </colgroup>
+		<thead>
+			<tr>		
+				<th>방이름</th>
+				<th>대상</th>
+				<th>크기</th>
+				<th>가격</th>
+			</tr>
+		</thead>		
+		
+		<!-- tfoot>tr>td -->
+		<tfoot>
+			<tr>
+				<td colspan="4">바깥채 전체를 렌트합니다.</td>
+			</tr>
+		</tfoot>
+		
+		<tbody>
+			<tr>
+				<td>달님방</td>
+				<td>남성도미토리</td>
+				<td>4인실</td>
+				<td>20만원</td>
+			</tr>
+			<tr>
+				<td>별님방</td>
+				<td>여성도미토리</td>
+				<td>4인실</td>
+				<td>20만원</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+</html>

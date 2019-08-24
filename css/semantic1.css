@@ -1,0 +1,13 @@
+﻿/*body{background:red;} */
+header{width:700px; background:#ff0000;}
+section{width:700px; background:#00ff00;}
+	aside{width:100px; background:#00ffff;}
+	article{width:500px; background:#ffff00;}
+footer{width:700px; background:#0000ff;}
+
+.fl{float: left;}
+.fr{float; left}
+.cl{clear: left;}
+.cr{clear: right}
+.cb{claer: both}
+

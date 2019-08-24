@@ -1,0 +1,9 @@
+﻿body{margin:0px; background-color:#ff0000;}
+body{background-color:silver; background-image:url(../images/bg0.png
+background-repeat:repeat-y; background-position:top right;
+background-attachment:fixed;
+}
+
+div{background:url(../images/bg1.png repeat-y fixed top left;}
+
+

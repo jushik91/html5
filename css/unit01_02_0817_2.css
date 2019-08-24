@@ -1,0 +1,7 @@
+﻿body{font:12px '맑은 고딕', sans-serif; margin-top: 20px; margin-left:50px;}
+
+.book1, .book2, .book2, .book4{width:342; height:150px;margin-top:10px;}
+.book1{background :url(../images/bg_sm01.png) no-repeat; float:left;}
+.book2{background :url(../images/bg_sm02.png) no-repeat; float:left; margin-left:20px;}
+.book3{background :url(../images/bg_sm03.png) no-repeat; float:left;}
+.book4{background :url(../images/bg_sm04.png) no-repeat; float:left; margin-left:20px}

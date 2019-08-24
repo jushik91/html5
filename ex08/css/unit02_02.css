@@ -1,0 +1,9 @@
+﻿header{width:800; margin:0 auto;}
+
+nav{height:50px; margin:0 auto;width:800px; }
+
+#logo{float:left; position:relative; top:-10px; left:-50px;}
+#searchForm{float:left; postion:relative; left:20px; top:-5px}
+#topMenu{float:right; list-style:none; position:relative; top:-30px}
+#topMenu li {float:left;}
+#topMenu li.liStyle:after{content: '    |   ';white-space:pre;}

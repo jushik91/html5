@@ -1,0 +1,26 @@
+﻿#book1{background:url(../images/snow_book1.png) no-repeat;
+width:300px; height:193px;
+	transform: rotate(25deg);
+	transform-origin : 20% 40%;	
+}
+
+
+#book2{background:url(../images/snow_book2.png) no-repeat;
+width:269px; height:213px;
+	transform: rotate(-15deg);
+	transform-origin : 50% 50%;	
+}
+
+
+/*
+
+rotate(degree) : 회전
+scale(sx,xy) : 가로,세로, 확대
+scaleX(sx) : 가로확대
+scaleY(sy) : 세로확대
+skew(degreeX,degreeY) : x,y축 왜곡
+skewX(degree) : x측 왜곡
+skewY(degree) : y측 왜곡
+
+*/
+

@@ -1,0 +1,6 @@
+﻿body{font:09.em '막은 고딕', '돋움체', sans-serif;}
+#list1{list_style_image:url../images/arrow.gif);
+list_style-position:inside;}
+#list2{list-style-type:upper-roman; list-style-position:outside;}
+#list2 li:first-child{list-style:url(../images/num1_green.gif)inside;}
+#list2 li :last-child{list-style:hiragana inside;}

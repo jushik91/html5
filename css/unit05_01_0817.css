@@ -1,0 +1,10 @@
+﻿body, p {margin:0 padding:0}
+
+body{background:url(../images/bg_gray.png) no-repeat #cccccc;}
+
+div{background:url opacity:0.5; padding-top:150px; padding-left:20px; 
+  margin: 0 auto 0}
+
+.textBox{background-color:hsla(0.0%, 100%, 0.6}; padding:20px; width:25%; margin:0  auto;border-radius:20px;}
+
+.people{padding-top:130px color:rgba(255,255,255,0,7); font:3em 'Arial Black';}

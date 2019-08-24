@@ -1,0 +1,10 @@
+﻿#header{width: 900px; height: 500px; background: #ffff00; margin: 0 auto; position: relative; top: 100px; left: 0px;}
+#box1{width: 100px; height: 100px; background: #ff0000; position: absolute; left: 200px; top: 0;}
+#box2{width: 100px; height: 100px; background: #00ff00; position: relative; left: 500px; top: 0; }
+#box3{width: 100px; height: 100px; background: #0000ff; }
+
+
+.fl{float: left;}
+.fr{float: right;}
+.cl{clear: left;}
+.cr{clear: right;}

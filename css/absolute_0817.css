@@ -1,0 +1,17 @@
+﻿/* body{background:#ff0000;} */
+
+#titlePage{position:absolute; top; -10px; left:0px}
+
+#book1{background: url(../images/bg_sm01.png) no-repeat;position : 
+absolute ;top:0% ;left:0%;}
+
+#book2{background: url(../images/bg_sm02.png) no-repeat;position : 
+absolute ;top:0%; right:0%;}
+
+
+#book3{background: url(../images/bg_sm03.png) no-repeat;position : 
+absolute ;top:0%; left:0%;}
+
+
+#book4{background: url(../images/bg_sm04.png) no-repeat;position : 
+absolute ;bottom:0%; left:0%;}
