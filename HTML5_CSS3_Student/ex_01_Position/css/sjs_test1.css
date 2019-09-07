@@ -1,0 +1,7 @@
+﻿/* body{background:red;} */
+	*{margin:0; padding:0;}
+.box1{height:210px; width:210px; background:yellow;}
+.box2{height:70px; width:70px; position:relative; background:green; top:100px; left:10px;}
+.box2:nth-child(1) {background:red}
+.box2:nth-child(2) {background:blue}
+.box2:nth-child(3) {background:green}

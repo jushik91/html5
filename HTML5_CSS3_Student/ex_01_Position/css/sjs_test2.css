@@ -1,0 +1,6 @@
+﻿.frame{width:700px; height:200; border:black; background:red}
+
+.box1{width: 100px; height: 100px; position: absolute; background:black; }
+.box1:nth-child(1){top:10px; left:10px; background:yellow;}
+.box1:nth-child(2){top:50px; left:50px; background:green;}
+.box1:nth-child(3){top:90px; left:90px; background:red;}

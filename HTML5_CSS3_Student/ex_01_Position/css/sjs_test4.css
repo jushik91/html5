@@ -1,0 +1,7 @@
+﻿*{margin:0; padding:0;}
+.frame1{width:700px; height:200px;;position:relative ; border:3px solid green;}
+
+.box1{width: 150px; height: 150px; position: absolute; background:black; }
+.box1:nth-child(1){top:10px; left:10px; background:yellow;}
+.box1:nth-child(2){top:50px; left:50px; background:green;}
+.box1:nth-child(3){top:90px; left:90px; background:red;}

@@ -1,0 +1,11 @@
+﻿
+#gnb .ul li{background: darkgreen;}
+
+html body>#header #gnb .ul li{background: #00ffff;}
+#header .ul li{background: #ff00ff;}
+.ul li{background: blue;}
+
+li{background: red;}
+
+
+

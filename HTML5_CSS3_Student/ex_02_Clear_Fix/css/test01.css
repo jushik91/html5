@@ -4,7 +4,7 @@
 .last{background: #0000ff; height: 150px;}
 
 .fl{float: left;}
-.clearfix:after{content: '어쩌구 저쩌구'; display: block; clear: both; visibility: hidden; height: 0;}
+.clearfix:after{content: '어쩌구 저쩌구'; display: block; clear: both; height: 0;}
 
 
 
